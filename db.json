@@ -1,0 +1,18 @@
+{
+  "contactos": [
+    {
+      "id": "7b07",
+      "nombre": "Isabel Cristina Acevedo Guirales",
+      "telefono": "32267535588578",
+      "correo": "s.arra.19@hotmail.com",
+      "etiqueta": "estudiante"
+    },
+    {
+      "id": "f7cf",
+      "nombre": "Facundo Cruz",
+      "telefono": "3002679797",
+      "correo": "silvercat@gmail.com",
+      "etiqueta": "Estudiante"
+    }
+  ]
+}
