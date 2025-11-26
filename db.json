@@ -13,6 +13,13 @@
       "telefono": "3226753558",
       "correo": "icag@hotmail.com",
       "etiqueta": "Estudiante"
+    },
+    {
+      "id": "b827",
+      "nombre": "Jhon",
+      "telefono": "2825756464",
+      "correo": "jt@test.com",
+      "etiqueta": "Personal"
     }
   ]
 }
