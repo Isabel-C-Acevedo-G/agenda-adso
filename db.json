@@ -1,13 +1,6 @@
 {
   "contactos": [
     {
-      "id": "f7cf",
-      "nombre": "Facundo Cruz",
-      "telefono": "3002679797",
-      "correo": "silvercat@gmail.com",
-      "etiqueta": "Estudiante"
-    },
-    {
       "id": "e647",
       "nombre": "Isabel ",
       "telefono": "3226753558",
@@ -20,6 +13,13 @@
       "telefono": "2825756464",
       "correo": "jt@test.com",
       "etiqueta": "Personal"
+    },
+    {
+      "id": "186d",
+      "nombre": "Facundo Cruz",
+      "telefono": "3002679797",
+      "correo": "silvercat@gmail.com",
+      "etiqueta": "Estudiante"
     }
   ]
 }
