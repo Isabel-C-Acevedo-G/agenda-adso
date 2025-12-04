@@ -1,21 +1,14 @@
 {
   "contactos": [
     {
-      "id": "e647",
-      "nombre": "Isabel ",
-      "telefono": "3226753558",
-      "correo": "icag@hotmail.com",
-      "etiqueta": "Estudiante"
-    },
-    {
-      "id": "b827",
-      "nombre": "Jhon",
+      "nombre": "Jhon Toro",
       "telefono": "2825756464",
       "correo": "jt@test.com",
-      "etiqueta": "Personal"
+      "etiqueta": "Personal",
+      "id": "b827"
     },
     {
-      "id": "186d",
+      "id": "aec8",
       "nombre": "Facundo Cruz",
       "telefono": "3002679797",
       "correo": "silvercat@gmail.com",
